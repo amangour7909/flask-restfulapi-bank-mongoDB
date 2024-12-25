@@ -12,3 +12,5 @@ debt        | /debt   | username,pw,amount     | Post     | 200,   301, 302, 304
 status code description - 
 200  - Ok
 301  - Invalid username , user already exist
+302  - Invalid password
+304  - amount must be greater than 0
