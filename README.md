@@ -31,7 +31,6 @@
 - **301** - Invalid username, user already exists
 - **302** - Invalid password
 - **304** - Amount must be greater than 0
-```
 
 ## Technologies Used
 
